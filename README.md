@@ -1,8 +1,6 @@
 ## Hello! Welcome to my GitHub Profile👋
 
-<p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/8c0912bc-655a-4686-aecf-a62333a98440)&text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![Image](https://github.com/user-attachments/assets/8c0912bc-655a-4686-aecf-a62333a98440)
 
 <!--
 **NCesari0/NCesari0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
