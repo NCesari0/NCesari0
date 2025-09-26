@@ -30,7 +30,7 @@ technical_background:
   ]
 ```
 ## Tools I Have Used & Learned
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height ="45"/>
 
 <!--
 **NCesari0/NCesari0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
