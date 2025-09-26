@@ -1,5 +1,5 @@
 ## Hello! Welcome to my GitHub Profile👋
-<p align="center">
+
 ![Image](https://github.com/user-attachments/assets/8c0912bc-655a-4686-aecf-a62333a98440)
 </p>
 
