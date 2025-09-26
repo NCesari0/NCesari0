@@ -1,6 +1,7 @@
 ## Hello! Welcome to my GitHub Profile👋
-
+<p align="center">
 ![Image](https://github.com/user-attachments/assets/8c0912bc-655a-4686-aecf-a62333a98440)
+</p>
 
 ## About Me
 ```yaml
@@ -28,6 +29,9 @@ technical_background:
     "Python Developer"
   ]
 ```
+## Tools I Have Used & Learned
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <!--
 **NCesari0/NCesari0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
