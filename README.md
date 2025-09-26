@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/8c0912bc-655a-4686-aecf-a62333a98440)
 
 ## About Me
-'''yaml
+```yaml
 name: Nicholas Cesario
 located_in: San Francisco, California
 current_job: Research Associate
@@ -27,6 +27,7 @@ technical_background:
   [
     "Python Developer"
   ]
+```
 <!--
 **NCesari0/NCesari0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
