@@ -7,7 +7,7 @@
 ```yaml
 name: Nicholas Cesario
 located_in: San Francisco, California
-current_job: Research Associate
+current_job: Research Associate / Data Analyst
 education:
   [
     "Self-Taught Programmer/Data Scientist",
