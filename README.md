@@ -14,7 +14,6 @@ education:
     "Data Scientist in Python",
     "Bachelor's in Biochemistry & Molecular Biology",
   ]
-company: 1cell.ai
 
 fields_of_interests:
   [
