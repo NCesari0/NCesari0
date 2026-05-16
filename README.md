@@ -6,7 +6,7 @@
 ## About Me
 ```yaml
 name: Nicholas Cesario
-located_in: San Francisco, California
+located_in: Los Angeles, California
 current_job: Research Associate / Data Analyst
 education:
   [
